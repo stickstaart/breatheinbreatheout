@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Puur Ademwerk
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -37,3 +38,7 @@ npm run build
 ```sh
 npm run lint
 ```
+=======
+# breatheinbreatheout
+Coming Soon Page for Puur Ademwerk
+>>>>>>> 8bc8ef7b382f53351b5eaaba1df4a0607f4dfd39
