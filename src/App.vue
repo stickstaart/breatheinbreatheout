@@ -1,6 +1,6 @@
 <template>
   <div class="h-screen w-screen">
-    <img src="./assets/nature.jpg" alt="nature" class="absolute h-full w-full object-cover">
+    <img src="./assets/nature_small.jpg" alt="nature" class="absolute h-full w-full object-cover">
     <div class="relative w-full h-full">
       <div class="grid place-items-center 2xl:h-1/2">
 
