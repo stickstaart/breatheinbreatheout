@@ -16,9 +16,7 @@
         </div>
         <h1 class="flex justify-center mb-4 font-black text-white text-4xl drop-shadow-md">Puur Ademwerk</h1>
         <div class="mx-4">
-          <WhatsAppButton class="mx-4 mb-6" phone-number="31638343700" />
-<!--          <span>puurademwerk@gmail.com</span>-->
-<!--          <span>+31 6 18 25 74 26</span>-->
+          <WhatsAppButton class="mx-4 mb-6" phone-number="31618257426"/>
         </div>
         <div class="mx-4">
           <ContactForm class="sm:mx-auto mb-4 lg:mb-12 3xl:mb-44"/>

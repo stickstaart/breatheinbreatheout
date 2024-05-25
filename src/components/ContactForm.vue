@@ -66,7 +66,7 @@ export default defineComponent({
           'service_io8bwvf', // #VITE_EMAILJS_SERVICE_ID
           'template_1qyf52a', // #VITE_EMAILJS_TEMPLATE_ID
           formData.value,
-          'tXpW3u5u0CFCP-1er' // #VITE_EMAILJS_USER_ID
+          'tXpW3u5u0CFCP-1er' // #VITE_EMAILJS_USER_ID import.meta.env.VITE_VAR_NAME_HERE
         );
         successMessage.value = 'Email sent successfully!';
         errorMessage.value = '';
